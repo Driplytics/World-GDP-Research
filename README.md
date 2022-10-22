@@ -30,14 +30,21 @@ My Analysis is based on the most recent (1960-2020) GDP Data available at World 
 7. **Past 10 years' GDP:** I used a table visual to show an overview of the past 10 years' GDP record and the annual change.
 
 ## Some of my Unique observations from my Analysis :
-1. Nigeria's GDP history has been a bumpy ride all through _(with its chart history looking like a Korean mountain lol) compared to that of the US or china that went on a smooth trajectory. I think this is a reflection of political instability._
-![](https://github.com/Driplytics/World-GDP-Research/blob/main/Nigeria%20Bumpy%20History.png)  
-  
-3. Since 2010 China has experienced rapid Economic growth compared to the US. _With clear evidence of a 10.29% CAGR compared to the 3.81% CAGR the US recorded._ 
-![](https://github.com/Driplytics/World-GDP-Research/blob/main/China's%20Rapid%20Growth.png)
-4.  China is the only country among the 3 that didn't experience negative GDP change in 2020 _(didn't COVID-19 affect them as well?. Chinese Government had good management of COVID)._
+**1.** Nigeria's GDP history has been a bumpy ride all through _(with its chart history looking like a Korean mountain lol) compared to that of the US or china that went on a smooth trajectory. I think this is a reflection of political instability._
+![](https://github.com/Driplytics/World-GDP-Research/blob/main/Nigeria%20Bumpy%20History.png) 
+
+
+
+___  
+>**3.** Since 2010 China has experienced rapid Economic growth compared to the US. _With clear evidence of a 10.29% CAGR compared to the 3.81% CAGR the US recorded._
+ ![](https://github.com/Driplytics/World-GDP-Research/blob/main/China's%20Rapid%20Growth.png)
+
+___
+**4.**  China is the only country among the 3 that didn't experience negative GDP change in 2020 _(didn't COVID-19 affect them as well?. Chinese Government had good management of COVID)._
 ![](https://github.com/Driplytics/World-GDP-Research/blob/main/Positive%202020%20for%20China.png)
-5. Nigeria hasn't been able to beat its highest GDP of $547bn recorded in 2014 _(Poor Economic conditions Since 2015 till date)._
+
+___
+**5.** Nigeria hasn't been able to beat its highest GDP of $547bn recorded in 2014 _(Poor Economic conditions Since 2015 till date)._
 ![](https://github.com/Driplytics/World-GDP-Research/blob/main/Nigeria%20didnt%20beat%20highest%20GDP%20.png)
 
 
