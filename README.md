@@ -30,7 +30,13 @@ My Analysis is based on the most recent (1960-2020) GDP Data available at World 
 7. **Past 10 years' GDP:** I used a table visual to show an overview of the past 10 years' GDP record and the annual change.
 
 ## Some of my Unique observations from my Analysis :
-1. Nigeria's GDP history has been a bumpy ride all through (with its chart history looking like a Korean mountain lol) _compared to that of the US or china that went on a smooth trajectory. I think this is a reflection of political instability._
+1. Nigeria's GDP history has been a bumpy ride all through _(with its chart history looking like a Korean mountain lol) compared to that of the US or china that went on a smooth trajectory. I think this is a reflection of political instability._
+2. Since 2010 China has experienced rapid Economic growth compared to the US. _With clear evidence of a 10.29% CAGR compared to the 3.81% CAGR the US recorded._
+3.  China is the only country among the 3 that didn't experience negative GDP change in 2020 _(didn't COVID-19 affect them as well?. Chinese Government had good management of COVID)._
+4. Nigeria hasn't been able to beat its highest GDP of $547bn recorded in 2014 _(Poor Economic conditions Since 2015 till date)._
+
+
+
 
 
 
