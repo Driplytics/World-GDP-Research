@@ -37,8 +37,9 @@ My Analysis is based on the most recent (1960-2020) GDP Data available at World 
 
 ___  
 
-**2.** Since 2010 China has experienced rapid Economic growth compared to the US. _With clear evidence of a 10.29% CAGR compared to the 3.81% CAGR the US recorded._
-![](https://github.com/Driplytics/World-GDP-Research/blob/main/China's%20Rapid%20Growth.png)
+**2.** Since 2010 China has experienced rapid Economic growth compared to the US. _With clear evidence of a 10.29% CAGR compared to the 3.81% CAGR the US recorded._ 
+
+  ![](https://github.com/Driplytics/World-GDP-Research/blob/main/China's%20Rapid%20Growth.png)
 
 ___
 **3.**  China is the only country among the 3 that didn't experience negative GDP change in 2020 _(didn't COVID-19 affect them as well?. Chinese Government had good management of COVID)._
